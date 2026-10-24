@@ -9,5 +9,16 @@
   "tipo": "audio/mpeg",
   "segundos": 412.6,
   "fecha_pub": "2026-10-23T13:22:10+02:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-10-24",
+  "clave": "2026-10-24",
+  "titulo": "Verdiblanco al Día · 24/10/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 24/10/2026\n\n- Bellerín no se entrenó ayer con el grupo y es duda para Balaídos; las previas hablan de cinco o seis cambios respecto al once del Feyenoord.\n- Apelación mantiene los cuatro partidos de sanción a Facundo Bernal y el Betis no pedirá la cautelar al TAD.\n- Destino Vigo: el Betis no gana en Balaídos desde la remontada de mayo de 2021 que lo devolvió a Europa.\n- El Celta llega octavo, recién llegado de ganar en Glasgow y con cinco bajas, entre ellas Borja Iglesias.\n- Mañana, domingo, a las 16:15, Celta-Betis; el miércoles, Copa en Navalcarnero.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-10-24/verdiblanco-al-dia-2026-10-24.mp3",
+  "bytes": 8124333,
+  "tipo": "audio/mpeg",
+  "segundos": 507.7,
+  "fecha_pub": "2026-10-24T06:22:40+02:00"
  }
 ]
