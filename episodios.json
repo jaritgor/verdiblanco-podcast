@@ -31,5 +31,16 @@
   "tipo": "audio/mpeg",
   "segundos": 437.2,
   "fecha_pub": "2026-10-25T06:21:39+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-10-25-noche",
+  "clave": "2026-10-25-noche",
+  "titulo": "Verdiblanco al Día · 25/10/2026, después del partido",
+  "descripcion": "🎙️ Verdiblanco al Día · 25/10/2026, después del partido\n\n- El Betis empata a cero en Balaídos: el Celta fue mejor en el primer tiempo y el Betis en el segundo.\n- Deossa estrella un balón en el larguero y Parrott falla en el minuto noventa y dos la ocasión más clara para ganar.\n- Álvaro Vallés, el mejor del equipo: sus paradas nos sostuvieron en los primeros veinte minutos.\n- Debate: ¿Deossa de falso nueve o Parrott de titular desde el primer minuto?\n- El miércoles empieza la Copa en el campo del Navalcarnero y el sábado llega el Málaga a La Cartuja.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-10-25-noche/verdiblanco-al-dia-2026-10-25-noche.mp3",
+  "bytes": 8182430,
+  "tipo": "audio/mpeg",
+  "segundos": 511.3,
+  "fecha_pub": "2026-10-25T19:12:42+01:00"
  }
 ]
