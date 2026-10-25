@@ -20,5 +20,16 @@
   "tipo": "audio/mpeg",
   "segundos": 507.7,
   "fecha_pub": "2026-10-24T06:22:40+02:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-10-25",
+  "clave": "2026-10-25",
+  "titulo": "Verdiblanco al Día · 25/10/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 25/10/2026\n\n- Celta-Betis, hoy a las cuatro y cuarto en Balaídos: Giráldez dice que «Este Betis es uno de los mejores de la historia»\n- Convocatoria sin el Cucho, Bernal, Junior ni Iker Losada; Bellerín ya no está en el parte de bajas y las previas ponen a Ángel Ortiz en el lateral\n- Ya se sabe lo del avión del Celta: se quedó en Glasgow por una avería y Giráldez solo pudo entrenar una vez\n- Pablo Fornals, convocado por España para los partidos contra Serbia y Egipto\n- El Betis ha marcado en las nueve jornadas de Liga y busca ponerse a tres puntos del Atlético",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-10-25/verdiblanco-al-dia-2026-10-25.mp3",
+  "bytes": 6996679,
+  "tipo": "audio/mpeg",
+  "segundos": 437.2,
+  "fecha_pub": "2026-10-25T06:21:39+01:00"
  }
 ]
