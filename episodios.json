@@ -42,5 +42,16 @@
   "tipo": "audio/mpeg",
   "segundos": 511.3,
   "fecha_pub": "2026-10-25T19:12:42+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-10-26",
+  "clave": "2026-10-26",
+  "titulo": "Verdiblanco al Día · 26/10/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 26/10/2026\n\n- Pellegrini considera justo el 0-0 de Balaídos: el primer tiempo fue del Celta y el segundo, del Betis.\n- En Vigo, el Betis se quedó sin marcar por primera vez en esta Liga, pero dejó su quinta portería a cero y sigue cuarto, con la Real Sociedad a un punto.\n- Llorente salió del campo con molestias. Según Pellegrini, no es una lesión y lo cambió para no arriesgar. El Cucho sigue sin plazo de vuelta.\n- La Copa empieza el miércoles a las nueve de la noche contra el Navalcarnero, que juega como local en Santo Domingo, en Alcorcón.\n- El Navalcarnero ha marcado en sus últimos cinco partidos.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-10-26/verdiblanco-al-dia-2026-10-26.mp3",
+  "bytes": 11571243,
+  "tipo": "audio/mpeg",
+  "segundos": 723.1,
+  "fecha_pub": "2026-10-26T06:32:05+01:00"
  }
 ]
