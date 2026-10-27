@@ -53,5 +53,16 @@
   "tipo": "audio/mpeg",
   "segundos": 723.1,
   "fecha_pub": "2026-10-26T06:32:05+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-10-27",
+  "clave": "2026-10-27",
+  "titulo": "Verdiblanco al Día · 27/10/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 27/10/2026\n\n- El Betis se estrena mañana en la Copa del Rey: el Navalcarnero le recibe a partido único a las nueve de la noche en el estadio de Santo Domingo, en Alcorcón.\n- Las previas dan por hecho que Pellegrini cambiará jugadores en todas las líneas. Morante y Riquelme suenan para el once, y Diego Conde podría jugar en la portería en lugar de Vallés.\n- No estarán el Cucho ni Junior, que siguen lesionados, ni Bernal, que está sancionado.\n- El Navalcarnero llega de ganar tres a dos en Soria. En sus últimos cinco partidos solo ha caído una vez, y fue en los penaltis.\n- El Sevilla ganó dos a cero a Osasuna y se pone sexto, a tres puntos del Betis.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-10-27/verdiblanco-al-dia-2026-10-27.mp3",
+  "bytes": 8776350,
+  "tipo": "audio/mpeg",
+  "segundos": 548.5,
+  "fecha_pub": "2026-10-27T06:23:26+01:00"
  }
 ]
