@@ -75,5 +75,16 @@
   "tipo": "audio/mpeg",
   "segundos": 416.4,
   "fecha_pub": "2026-10-28T06:16:02+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-10-29",
+  "clave": "2026-10-29",
+  "titulo": "Verdiblanco al Día · 29/10/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 29/10/2026\n\n- Un choque de trenes en Urda (Toledo) obliga a suspender toda la jornada de Copa del miércoles, y el Betis se entera nada más aterrizar en Madrid.\n- La RFEF fija el Navalcarnero-Betis para el jueves 12 de noviembre a las siete de la tarde en Santo Domingo, en pleno parón y sin los internacionales.\n- Antony se cae del viaje por un proceso vírico y está por ver si llega al Málaga; Junior ya no figura en el parte de bajas.\n- El Málaga llega a La Cartuja colista, aunque viene de ganar tres a cero en Copa y tiene en Adrián Niño su referencia arriba.\n- El Sevilla juega hoy la Copa ante el Sporting de Hortaleza en Alcalá de Henares.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-10-29/verdiblanco-al-dia-2026-10-29.mp3",
+  "bytes": 6101829,
+  "tipo": "audio/mpeg",
+  "segundos": 381.3,
+  "fecha_pub": "2026-10-29T06:18:38+01:00"
  }
 ]
