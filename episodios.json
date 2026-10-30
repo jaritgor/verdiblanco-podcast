@@ -86,5 +86,16 @@
   "tipo": "audio/mpeg",
   "segundos": 381.3,
   "fecha_pub": "2026-10-29T06:18:38+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-10-30",
+  "clave": "2026-10-30",
+  "titulo": "Verdiblanco al Día · 30/10/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 30/10/2026\n\n- Antony supera el virus, vuelve a entrenarse con el grupo y apunta al Málaga\n- Según AS, Álvaro Vallés está en la prelista de Luis de la Fuente para los partidos de noviembre\n- El Dortmund dejará entrar a los béticos con entrada en zona local, salvo en varios sectores del Fondo Sur\n- Danel Castro, Bruno Fernández y Tiago Polo jugarán con España la final de la Copa Mundial sub-16\n- Betis-Málaga, mañana sábado a las seis y media de la tarde en La Cartuja: con una victoria, el Betis se quedaría a un punto del tercero",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-10-30/verdiblanco-al-dia-2026-10-30.mp3",
+  "bytes": 7738975,
+  "tipo": "audio/mpeg",
+  "segundos": 483.6,
+  "fecha_pub": "2026-10-30T06:20:38+01:00"
  }
 ]
