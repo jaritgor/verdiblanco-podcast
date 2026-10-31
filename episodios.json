@@ -97,5 +97,16 @@
   "tipo": "audio/mpeg",
   "segundos": 483.6,
   "fecha_pub": "2026-10-30T06:20:38+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-10-31",
+  "clave": "2026-10-31",
+  "titulo": "Verdiblanco al Día · 31/10/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 31/10/2026\n\n- Tiago Polo, Bruno Fernández y Danel Castro, canteranos del Betis, son campeones del mundo con España: tres a cero a la República Checa en la final de Bakú, con goles de Tiago y Bruno.\n- El Betis recibe hoy al Málaga a las seis y media de la tarde en La Cartuja. Antony entra en la lista; el Cucho, Bernal y Junior se quedan fuera.\n- El Málaga llega colista y sin Pablo Martínez ni Juan Cruz. Ángel Recio, central titular en todas las jornadas, es duda por un virus.\n- Betis y Málaga se han enfrentado cincuenta y dos veces: dieciocho victorias béticas y diecisiete malaguistas.\n- No quedan entradas para el Betis Deportivo-Recreativo de mañana, el partido que decide el primer puesto.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-10-31/verdiblanco-al-dia-2026-10-31.mp3",
+  "bytes": 6950286,
+  "tipo": "audio/mpeg",
+  "segundos": 434.3,
+  "fecha_pub": "2026-10-31T08:08:36+01:00"
  }
 ]
