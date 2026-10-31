@@ -108,5 +108,16 @@
   "tipo": "audio/mpeg",
   "segundos": 434.3,
   "fecha_pub": "2026-10-31T08:08:36+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-10-31-noche",
+  "clave": "2026-10-31-noche",
+  "titulo": "Verdiblanco al Día · 31/10/2026, después del partido",
+  "descripcion": "🎙️ Verdiblanco al Día · 31/10/2026, después del partido\n\n- El Betis gana dos a uno al Málaga en La Cartuja, con goles de Bartra y Fornals antes del descanso.\n- Pellegrini gana en su primer partido oficial contra el Málaga, y los dos ex del Málaga, Isco y Fornals, deciden el partido.\n- Aitor Ruibal vuelve a jugar seis meses después de operarse del menisco, y La Cartuja le recibe con una gran ovación.\n- La segunda parte deja un debate: ¿aviso serio antes de Dortmund o bajón normal con el dos a cero?\n- Las Féminas ganan seis a cero al Córdoba y el infantil B se lleva el derbi. El miércoles, Dortmund.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-10-31-noche/verdiblanco-al-dia-2026-10-31-noche.mp3",
+  "bytes": 8420666,
+  "tipo": "audio/mpeg",
+  "segundos": 526.2,
+  "fecha_pub": "2026-10-31T21:30:08+01:00"
  }
 ]
