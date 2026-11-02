@@ -130,5 +130,16 @@
   "tipo": "audio/mpeg",
   "segundos": 577.7,
   "fecha_pub": "2026-11-01T06:26:28+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-02",
+  "clave": "2026-11-02",
+  "titulo": "Verdiblanco al Día · 02/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 02/11/2026\n\n- Pepe Mel, ex entrenador del Betis, en la UCI después de que lo operaran con éxito de un ictus en Sevilla\n- Domingo redondo en la tabla: el Betis sigue cuarto, a cuatro puntos de la Real Sociedad y a seis del Sevilla\n- El Betis Deportivo pierde cero a dos contra el Recreativo en el partido por el primer puesto\n- Manu Fajardo, sobre lo de Abde y el PSG: «es mentira»\n- El Cucho aparece como duda para Dortmund, donde llega un rival que empató en Múnich",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-02/verdiblanco-al-dia-2026-11-02.mp3",
+  "bytes": 6480918,
+  "tipo": "audio/mpeg",
+  "segundos": 405.0,
+  "fecha_pub": "2026-11-02T06:21:53+01:00"
  }
 ]
