@@ -141,5 +141,16 @@
   "tipo": "audio/mpeg",
   "segundos": 405.0,
   "fecha_pub": "2026-11-02T06:21:53+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-03",
+  "clave": "2026-11-03",
+  "titulo": "Verdiblanco al Día · 03/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 03/11/2026\n\n- Pellegrini se lleva a veinticuatro jugadores a Dortmund, con la novedad de Facundo Bernal. Bernal está sancionado en Liga, pero en la Champions puede jugar\n- No viajan el Cucho, por el gemelo, ni Junior. Iker Losada vuelve a quedarse fuera por decisión técnica. Aitor Ruibal es la alternativa a Parrott en la delantera\n- El neerlandés Serdar Gözübüyük arbitrará el Borussia Dortmund-Betis, que se juega mañana miércoles a las nueve de la noche\n- El Betis llega a Dortmund después de ganar sus tres partidos de Champions, y lo acompañarán miles de béticos en el Signal Iduna Park\n- El Sevilla y Joaquín Caparrós le mandan un mensaje de cariño a Pepe Mel, que sigue en la UCI",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-03/verdiblanco-al-dia-2026-11-03.mp3",
+  "bytes": 7827582,
+  "tipo": "audio/mpeg",
+  "segundos": 489.2,
+  "fecha_pub": "2026-11-03T06:17:36+01:00"
  }
 ]
