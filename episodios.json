@@ -152,5 +152,16 @@
   "tipo": "audio/mpeg",
   "segundos": 489.2,
   "fecha_pub": "2026-11-03T06:17:36+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-04",
+  "clave": "2026-11-04",
+  "titulo": "Verdiblanco al Día · 04/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 04/11/2026\n\n- El Betis juega hoy en Dortmund a las nueve de la noche, en el primer partido oficial de su historia contra el Borussia, y llega con tres victorias en tres partidos de Champions.\n- Álvaro Fidalgo, enfermo, se une a las bajas del Cucho, Junior y Losada. Según alguna previa, Llorente sería titular y Bartra se sentaría en el banquillo.\n- Kovac, sobre Pellegrini: «No solo es un gran entrenador por su experiencia, es un caballero».\n- Antiviolencia propone multar con algo más de sesenta mil euros al youtuber que insultó a Bellerín. También propone tres multas al Betis, que suman ciento veinticinco mil euros. Las dos propuestas están pendientes de resolución.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-04/verdiblanco-al-dia-2026-11-04.mp3",
+  "bytes": 6623860,
+  "tipo": "audio/mpeg",
+  "segundos": 413.9,
+  "fecha_pub": "2026-11-04T06:26:51+01:00"
  }
 ]
