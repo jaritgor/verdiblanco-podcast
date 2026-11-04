@@ -163,5 +163,16 @@
   "tipo": "audio/mpeg",
   "segundos": 413.9,
   "fecha_pub": "2026-11-04T06:26:51+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-04-noche",
+  "clave": "2026-11-04-noche",
+  "titulo": "Verdiblanco al Día · 04/11/2026, después del partido",
+  "descripcion": "🎙️ Verdiblanco al Día · 04/11/2026, después del partido\n\n- El Betis pierde dos a uno en Dortmund. Es su primera derrota en esta Champions, tras ganar los tres primeros partidos.\n- Aitor Ruibal entra pasada la hora y marca el empate cinco minutos después. Karetsas decide el partido en el setenta y dos.\n- Debate sobre el once de Pellegrini: Isco, Ruibal y Bartra empezaron en el banquillo.\n- El capitán del Dortmund se quita el sombrero ante la afición bética, que seguía en el estadio media hora después del final.\n- Sin tiempo para lamentos: el domingo, a las dos de la tarde, el Betis visita al Elche en Liga.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-04-noche/verdiblanco-al-dia-2026-11-04-noche.mp3",
+  "bytes": 8550652,
+  "tipo": "audio/mpeg",
+  "segundos": 534.4,
+  "fecha_pub": "2026-11-05T00:02:41+01:00"
  }
 ]
