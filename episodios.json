@@ -174,5 +174,16 @@
   "tipo": "audio/mpeg",
   "segundos": 534.4,
   "fecha_pub": "2026-11-05T00:02:41+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-05",
+  "clave": "2026-11-05",
+  "titulo": "Verdiblanco al Día · 05/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 05/11/2026\n\n- Pellegrini, tras caer en Dortmund: «El empate habría sido el resultado más justo». Habla de ocho partidos en menos de un mes para justificar las rotaciones.\n- Ceballos cree que el Betis hizo méritos para ganar. Se llevó un golpe fuerte en la cara y pudo seguir jugando.\n- Champions: el Betis cae al undécimo puesto con nueve puntos. Si gana al Slovan Bratislava, colista, el 24 de noviembre, se asegura seguir en la competición.\n- Debate: ¿Antony titular en Elche para que vuelva a su nivel, o al banquillo?\n- El domingo, a las dos de la tarde, Elche-Betis: el Elche no ha marcado en sus dos últimos partidos en casa.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-05/verdiblanco-al-dia-2026-11-05.mp3",
+  "bytes": 9038828,
+  "tipo": "audio/mpeg",
+  "segundos": 564.9,
+  "fecha_pub": "2026-11-05T06:32:33+01:00"
  }
 ]
