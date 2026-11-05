@@ -185,5 +185,16 @@
   "tipo": "audio/mpeg",
   "segundos": 564.9,
   "fecha_pub": "2026-11-05T06:32:33+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-05-especial",
+  "clave": "2026-11-05-especial",
+  "titulo": "Especial · Tal día como hoy: Finidi, Benjamín y Fernando: el 3-0 al Willem II (3/11/1998)",
+  "descripcion": "🎙️ Especial · Tal día como hoy\nFinidi, Benjamín y Fernando: el 3-0 al Willem II (3/11/1998)\n\n- El 3 de noviembre de 1998, el Betis goleó 3-0 al Willem II en el Villamarín, en la vuelta de dieciseisavos de la Copa de la UEFA.\n- Marcaron Finidi, Benjamín y Fernando; tras el 1-1 de la ida en Tilburg, el Betis se clasificó con un 4-1 global.\n- Era el estreno europeo de Javier Clemente, cuarto entrenador de la temporada, con Denílson, entonces el fichaje más caro del mundo, como titular.\n- Enfrente jugaba Sami Hyypiä, futuro campeón de Europa con el Liverpool, y el Willem II acabaría segundo en la Eredivisie.\n- El Bolonia eliminó después al Betis, que acabó undécimo en Liga y descendió a Segunda la temporada siguiente.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-05-especial/verdiblanco-al-dia-2026-11-05-especial.mp3",
+  "bytes": 15628790,
+  "tipo": "audio/mpeg",
+  "segundos": 976.7,
+  "fecha_pub": "2026-11-05T15:19:57+01:00"
  }
 ]
