@@ -196,5 +196,16 @@
   "tipo": "audio/mpeg",
   "segundos": 976.7,
   "fecha_pub": "2026-11-05T15:19:57+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-06",
+  "clave": "2026-11-06",
+  "titulo": "Verdiblanco al Día · 06/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 06/11/2026\n\n- El Betis se entrenó en las instalaciones del Dortmund antes de volver a Sevilla, ya pensando en el Elche.\n- Álvaro Fidalgo, que no viajó a Alemania por un virus, podría volver para Elche. Bernal sigue sancionado en Liga y el Cucho y Junior siguen lesionados.\n- Álvaro Vallés vuelve a examinarse ante Luis de la Fuente.\n- El parón y el derbi: Abde juega con Marruecos el 17 de noviembre, en la misma semana del partido contra el Sevilla.\n- El domingo a las 14:00, Elche-Betis en el Martínez Valero. El Betis no ha perdido ninguno de sus últimos cinco partidos contra el Elche.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-06/verdiblanco-al-dia-2026-11-06.mp3",
+  "bytes": 6163269,
+  "tipo": "audio/mpeg",
+  "segundos": 385.1,
+  "fecha_pub": "2026-11-06T06:17:51+01:00"
  }
 ]
