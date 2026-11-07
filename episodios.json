@@ -207,5 +207,16 @@
   "tipo": "audio/mpeg",
   "segundos": 385.1,
   "fecha_pub": "2026-11-06T06:17:51+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-07",
+  "clave": "2026-11-07",
+  "titulo": "Verdiblanco al Día · 07/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 07/11/2026\n\n- Ya es oficial: Álvaro Vallés y Marc Roca entran en la lista de Luis de la Fuente para cerrar la fase de grupos de la Nations League. Ángel Ortiz y Manu González van con la sub-21.\n- El Betis visita mañana, a las dos de la tarde, al Elche en el Martínez Valero. El Elche no tendrá a Lemar ni a Marc Aguado, según la prensa ilicitana.\n- Debate: ¿Ruibal de titular en Elche o Parrott de inicio y Ruibal desde el banquillo?\n- El parón deja al Betis con nueve bajas para la Copa en Navalcarnero, pero la afición confía en que hay plantilla de sobra.\n- El Sevilla empata a cero con el Alavés y sigue a cinco puntos del Betis, con un partido más.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-07/verdiblanco-al-dia-2026-11-07.mp3",
+  "bytes": 7527070,
+  "tipo": "audio/mpeg",
+  "segundos": 470.4,
+  "fecha_pub": "2026-11-07T06:22:15+01:00"
  }
 ]
