@@ -229,5 +229,16 @@
   "tipo": "audio/mpeg",
   "segundos": 402.3,
   "fecha_pub": "2026-11-08T06:22:41+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-08-noche",
+  "clave": "2026-11-08-noche",
+  "titulo": "Verdiblanco al Día · 08/11/2026, después del partido",
+  "descripcion": "🎙️ Verdiblanco al Día · 08/11/2026, después del partido\n\n- El Betis gana cero a dos en Elche con goles de Riquelme y Bartra en los últimos diez minutos\n- El banquillo decide el partido: Riquelme marca a los tres minutos de entrar y Ceballos pone los dos balones de gol\n- Bartra, con treinta y cinco años, ya es el máximo goleador del Betis esta temporada\n- Pellegrini: «Era un partido para equipo grande»\n- El Betis sigue cuarto con veintiséis puntos. El jueves debuta en Copa contra el Navalcarnero",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-08-noche/verdiblanco-al-dia-2026-11-08-noche.mp3",
+  "bytes": 8907171,
+  "tipo": "audio/mpeg",
+  "segundos": 556.6,
+  "fecha_pub": "2026-11-08T17:07:07+01:00"
  }
 ]
