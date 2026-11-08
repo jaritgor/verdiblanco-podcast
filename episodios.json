@@ -218,5 +218,16 @@
   "tipo": "audio/mpeg",
   "segundos": 470.4,
   "fecha_pub": "2026-11-07T06:22:15+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-08",
+  "clave": "2026-11-08",
+  "titulo": "Verdiblanco al Día · 08/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 08/11/2026\n\n- Pellegrini deja a Lo Celso fuera de la lista para jugar en Elche por decisión técnica; vuelven Junior, Fidalgo e Iker Losada.\n- Deossa, convocado por Colombia para dos amistosos contra Chile: hoy juega su último partido antes de irse, como Vallés y Marc Roca.\n- Pellegrini respalda a Parrott: «los goles llegarán antes o después».\n- El Elche, decimoséptimo, todavía no ha ganado en casa esta temporada. Hoy, a las dos, en el Martínez Valero.\n- Las juveniles del Betis ganan al Sevilla y se ponen líderes.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-08/verdiblanco-al-dia-2026-11-08.mp3",
+  "bytes": 6437868,
+  "tipo": "audio/mpeg",
+  "segundos": 402.3,
+  "fecha_pub": "2026-11-08T06:22:41+01:00"
  }
 ]
