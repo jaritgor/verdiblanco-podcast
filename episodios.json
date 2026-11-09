@@ -240,5 +240,16 @@
   "tipo": "audio/mpeg",
   "segundos": 556.6,
   "fecha_pub": "2026-11-08T17:07:07+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-09",
+  "clave": "2026-11-09",
+  "titulo": "Verdiblanco al Día · 09/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 09/11/2026\n\n- El Betis sigue cuarto con veintiséis puntos tras ganar cero a dos en Elche y deja al Sevilla a ocho puntos.\n- Ceballos, decisivo en los dos goles: «Cada vez me noto mejor físicamente».\n- Pellegrini habla de un partido «muy completo» y de un equipo que «quiere hacer cosas grandes».\n- Antony se enfada al ser sustituido y golpea una botella: ¿un calentón o una señal que preocupa?\n- El jueves, a las siete de la tarde, debut en Copa ante el Navalcarnero.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-09/verdiblanco-al-dia-2026-11-09.mp3",
+  "bytes": 9974638,
+  "tipo": "audio/mpeg",
+  "segundos": 623.4,
+  "fecha_pub": "2026-11-09T08:54:58+01:00"
  }
 ]
