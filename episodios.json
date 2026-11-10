@@ -251,5 +251,16 @@
   "tipo": "audio/mpeg",
   "segundos": 623.4,
   "fecha_pub": "2026-11-09T08:54:58+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-10",
+  "clave": "2026-11-10",
+  "titulo": "Verdiblanco al Día · 10/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 10/11/2026\n\n- Arranca «13 barras», la cuenta atrás del derbi. Hoy toca la barra doce, la de los números: doscientos dos derbis, con sesenta victorias del Betis, cuarenta y ocho empates y noventa y cuatro del Sevilla.\n- El Betis llega al derbi con tres partidos sin perder contra el Sevilla y ocho puntos por encima en la tabla.\n- El jueves, Copa en el Santo Domingo ante el Navalcarnero. Faltan nueve jugadores que están con sus selecciones, y el Cucho sigue lesionado.\n- Con Vallés y Manu González fuera, se apunta a Diego Conde para la portería.\n- Bartra, nombre del día: el club deja la negociación de su renovación y la de Bellerín para diciembre.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-10/verdiblanco-al-dia-2026-11-10.mp3",
+  "bytes": 6163687,
+  "tipo": "audio/mpeg",
+  "segundos": 385.2,
+  "fecha_pub": "2026-11-10T06:26:17+01:00"
  }
 ]
