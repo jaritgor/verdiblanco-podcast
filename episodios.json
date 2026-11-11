@@ -262,5 +262,16 @@
   "tipo": "audio/mpeg",
   "segundos": 385.2,
   "fecha_pub": "2026-11-10T06:26:17+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-11",
+  "clave": "2026-11-11",
+  "titulo": "Verdiblanco al Día · 11/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 11/11/2026\n\n- Copa del Rey, mañana a las siete en Santo Domingo: sin lista oficial todavía y con todo apuntando al estreno oficial de Diego Conde en la portería\n- El Cucho ya trabaja sobre el césped, sin balón, con el derbi como objetivo: ¿arriesgar o esperar?\n- Barra 11 de 13: por qué somos rivales, de la calle Cervantes a los 57.650 abonados\n- Desde Nervión, José Ignacio Navarro: «El objetivo es ganar el derbi pero no somos favoritos»\n- Corrección: el derbi es el sábado 21 a las 18:30 y ya está abierto el proceso de entradas",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-11/verdiblanco-al-dia-2026-11-11.mp3",
+  "bytes": 7740229,
+  "tipo": "audio/mpeg",
+  "segundos": 483.7,
+  "fecha_pub": "2026-11-11T06:23:36+01:00"
  }
 ]
