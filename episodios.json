@@ -273,5 +273,16 @@
   "tipo": "audio/mpeg",
   "segundos": 483.7,
   "fecha_pub": "2026-11-11T06:23:36+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-12",
+  "clave": "2026-11-12",
+  "titulo": "Verdiblanco al Día · 12/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 12/11/2026\n\n- Copa del Rey: el Betis juega hoy a las siete de la tarde ante el Navalcarnero en Santo Domingo (Alcorcón), a partido único.\n- Lo Celso vuelve a la lista de 23, con siete canteranos y diez ausencias. Diego Conde apunta a estrenarse en la portería.\n- Pepe Mel despertó ayer y evoluciona favorablemente del ictus. Tendrá que volver a operarse.\n- Barra 10 de 13: el Betis es cuarto con 26 puntos y el Sevilla, sexto con 18.\n- De la Fuente sobre Vallés: «En dos días es uno más del equipo».",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-12/verdiblanco-al-dia-2026-11-12.mp3",
+  "bytes": 6535252,
+  "tipo": "audio/mpeg",
+  "segundos": 408.4,
+  "fecha_pub": "2026-11-12T06:22:13+01:00"
  }
 ]
