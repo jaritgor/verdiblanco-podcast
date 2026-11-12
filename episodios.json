@@ -295,5 +295,16 @@
   "tipo": "audio/mpeg",
   "segundos": 220.1,
   "fecha_pub": "2026-11-12T22:06:05+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-12-noche",
+  "clave": "2026-11-12-noche",
+  "titulo": "Verdiblanco al Día · 12/11/2026, después del partido",
+  "descripcion": "🎙️ Verdiblanco al Día · 12/11/2026, después del partido\n\n- El Betis sufre una barbaridad y gana 2-3 al Navalcarnero en la prórroga para pasar de ronda en Copa\n- El canterano Rodrigo Marina empata en el minuto 92 y Riquelme marca dos goles, el último en el minuto 96\n- Calado le para un penalti a Isco y Ruibal ve la roja en los últimos minutos de la prórroga\n- Afición dividida: alivio por pasar, enfado con el rendimiento y casi todos de acuerdo en aplaudir a Marina\n- El Betis iguala el mejor arranque de su historia y ya mira al derbi, dentro de nueve días",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-12-noche/verdiblanco-al-dia-2026-11-12-noche.mp3",
+  "bytes": 8708222,
+  "tipo": "audio/mpeg",
+  "segundos": 544.2,
+  "fecha_pub": "2026-11-12T22:34:48+01:00"
  }
 ]
