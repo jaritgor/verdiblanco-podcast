@@ -317,5 +317,16 @@
   "tipo": "audio/mpeg",
   "segundos": 635.1,
   "fecha_pub": "2026-11-13T06:28:53+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-12-especial",
+  "clave": "2026-11-12-especial",
+  "titulo": "Especial · Vidas verdiblancas: Rafael Gordillo: de Almendralejo a símbolo eterno del Betis",
+  "descripcion": "🎙️ Especial · Vidas verdiblancas\nRafael Gordillo: de Almendralejo a símbolo eterno del Betis\n\n- Rafael Gordillo nació en Almendralejo en 1957, se crio en el Polígono de San Pablo y entró en la cantera bética con quince años.\n- Debutó en 1977 contra el Burgos y no pudo jugar la Copa del Rey de ese año por haberla disputado con el filial.\n- Jugó 75 partidos con España, 59 siendo bético, con dos Mundiales y tres Eurocopas, y fue subcampeón de Europa en 1984.\n- Tras ganar cinco Ligas con el Real Madrid, volvió en 1992 a un Betis en Segunda y logró el ascenso en 1994, otra vez ante el Burgos.\n- Sumó 411 partidos con el Betis, fue presidente en 2010-11, presidió la Fundación y la nueva ciudad deportiva lleva su nombre.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-12-especial/verdiblanco-al-dia-2026-11-12-especial.mp3",
+  "bytes": 15405600,
+  "tipo": "audio/mpeg",
+  "segundos": 962.8,
+  "fecha_pub": "2026-11-13T15:17:57+01:00"
  }
 ]
