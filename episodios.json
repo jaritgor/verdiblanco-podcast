@@ -306,5 +306,16 @@
   "tipo": "audio/mpeg",
   "segundos": 544.2,
   "fecha_pub": "2026-11-12T22:34:48+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-13",
+  "clave": "2026-11-13",
+  "titulo": "Verdiblanco al Día · 13/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 13/11/2026\n\n- Pellegrini defiende al equipo tras el susto en Navalcarnero: «Si hubiéramos caído eliminados, no tendría ningún reproche al equipo»\n- Riquelme pidió perdón a la afición al celebrar el gol que daba el pase. Llorente, según Pellegrini, está bien tras el golpe en la cabeza\n- Las notas completas: Firpo, Isco, Marina y Ruibal salen bien parados, y Bellerín y Antony se quedan en el seis\n- Barra 9 de 13: los derbis para enmarcar, del cero a tres de 1935 al tres a cinco de 2018\n- Faltan ocho días para el derbi: el Betis llega con ocho puntos más que el Sevilla",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-13/verdiblanco-al-dia-2026-11-13.mp3",
+  "bytes": 10161884,
+  "tipo": "audio/mpeg",
+  "segundos": 635.1,
+  "fecha_pub": "2026-11-13T06:28:53+01:00"
  }
 ]
