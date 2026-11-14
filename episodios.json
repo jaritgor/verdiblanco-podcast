@@ -328,5 +328,16 @@
   "tipo": "audio/mpeg",
   "segundos": 962.8,
   "fecha_pub": "2026-11-13T15:17:57+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-14",
+  "clave": "2026-11-14",
+  "titulo": "Verdiblanco al Día · 14/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 14/11/2026\n\n- Fabián Ruiz, sobre su futuro: «Me gustaría acabar mi carrera en el Betis».\n- Barra 8 de 13: hay nueve béticos con sus selecciones, y Deossa, Bernal y Fidalgo serán los últimos en volver antes del derbi.\n- El Sevilla pierde a Alfon para el resto de la temporada por una rotura del cruzado.\n- Debate: ¿Ceballos de titular en el derbi o guardado para la segunda parte?\n- Ángel Ortiz, «orgullo de Almendralejo», es el nombre del día.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-14/verdiblanco-al-dia-2026-11-14.mp3",
+  "bytes": 6241845,
+  "tipo": "audio/mpeg",
+  "segundos": 390.1,
+  "fecha_pub": "2026-11-14T07:25:37+01:00"
  }
 ]
