@@ -339,5 +339,16 @@
   "tipo": "audio/mpeg",
   "segundos": 390.1,
   "fecha_pub": "2026-11-14T07:25:37+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-15",
+  "clave": "2026-11-15",
+  "titulo": "Verdiblanco al Día · 15/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 15/11/2026\n\n- Nelson Deossa debuta con la selección absoluta de Colombia: «Un sueño cumplido».\n- Rakitic, antes del derbi: «No soy antibético, lo que soy es muy, muy sevillista».\n- Barra 7 de 13: la ciudad partida, del «manque pierda» al récord de 57.650 abonados.\n- El Betis Deportivo vuelve a ganar en Sanlúcar (0-1) con gol de Curro Macías, y las Féminas ganan 0-3.\n- El Sevilla gana la 60.ª Regata Sevilla-Betis en categoría masculina y femenina.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-15/verdiblanco-al-dia-2026-11-15.mp3",
+  "bytes": 6039135,
+  "tipo": "audio/mpeg",
+  "segundos": 377.4,
+  "fecha_pub": "2026-11-15T06:21:11+01:00"
  }
 ]
