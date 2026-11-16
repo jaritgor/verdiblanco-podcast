@@ -350,5 +350,16 @@
   "tipo": "audio/mpeg",
   "segundos": 377.4,
   "fecha_pub": "2026-11-15T06:21:11+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-16",
+  "clave": "2026-11-16",
+  "titulo": "Verdiblanco al Día · 16/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 16/11/2026\n\n- Según cuentan en Chile, Isco y Bellerín le pidieron a Pellegrini que siga una temporada más en el Betis.\n- Barra 6 de 13: el duelo de banquillos. Pellegrini llega con 9 derbis sin perder de 14, y García Plaza dirigirá el primero de su carrera.\n- LaLiga pone el Atlético de Madrid-Betis el domingo 6 de diciembre a las 21:00.\n- El filial del Betis Féminas lleva diez victorias en diez jornadas y es líder en solitario.\n- Troy Parrott, desde la concentración de Irlanda: quiere jugar «cada minuto de cada partido».",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-16/verdiblanco-al-dia-2026-11-16.mp3",
+  "bytes": 6264415,
+  "tipo": "audio/mpeg",
+  "segundos": 391.5,
+  "fecha_pub": "2026-11-16T06:50:53+01:00"
  }
 ]
