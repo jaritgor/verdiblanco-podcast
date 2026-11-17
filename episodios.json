@@ -361,5 +361,16 @@
   "tipo": "audio/mpeg",
   "segundos": 391.5,
   "fecha_pub": "2026-11-16T06:50:53+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-17",
+  "clave": "2026-11-17",
+  "titulo": "Verdiblanco al Día · 17/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 17/11/2026\n\n- El Cucho Hernández vuelve a entrenarse con el grupo, todavía de forma parcial, cuatro días antes del derbi\n- Jesús Rodríguez visita la ciudad deportiva el día en que su hermano Juan se estrena con el primer equipo\n- Troy Parrott, elegido mejor jugador del año de la selección de Irlanda\n- La Policía Nacional identifica al presunto responsable de un grupo que preparaba saqueos durante el derbi\n- Barra 5 de 13: los dos últimos derbis, del 0-2 en el Sánchez-Pizjuán al 2-2 de La Cartuja",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-17/verdiblanco-al-dia-2026-11-17.mp3",
+  "bytes": 5978531,
+  "tipo": "audio/mpeg",
+  "segundos": 373.6,
+  "fecha_pub": "2026-11-17T07:06:40+01:00"
  }
 ]
