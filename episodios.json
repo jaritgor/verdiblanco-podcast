@@ -372,5 +372,16 @@
   "tipo": "audio/mpeg",
   "segundos": 373.6,
   "fecha_pub": "2026-11-17T07:06:40+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-18",
+  "clave": "2026-11-18",
+  "titulo": "Verdiblanco al Día · 18/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 18/11/2026\n\n- Isco ya está metido en el derbi: «El ambiente será hostil, tenemos que tener personalidad y jugar al fútbol»\n- Ceballos no se entrenó ayer y es duda para el sábado. Las pruebas descartan lesión.\n- Troy Parrott marca dos goles con Irlanda y vuelve a Sevilla a tres días del derbi\n- Pepe Mel sale de la UCI y pasa a planta, y Antiviolencia propone multar al Betis con 35.000 euros por las bengalas\n- Barra 4 de 13: los duelos clave del derbi. Nuestros cuatro máximos goleadores suman 18 goles y los del Sevilla, 8.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-18/verdiblanco-al-dia-2026-11-18.mp3",
+  "bytes": 6396490,
+  "tipo": "audio/mpeg",
+  "segundos": 399.7,
+  "fecha_pub": "2026-11-18T06:22:25+01:00"
  }
 ]
