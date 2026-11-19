@@ -383,5 +383,16 @@
   "tipo": "audio/mpeg",
   "segundos": 399.7,
   "fecha_pub": "2026-11-18T06:22:25+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-19",
+  "clave": "2026-11-19",
+  "titulo": "Verdiblanco al Día · 19/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 19/11/2026\n\n- El Cucho se apunta al derbi: «Por supuesto, me encuentro bien»\n- Ceballos lleva dos días sin entrenarse con el grupo y sigue siendo duda para el sábado\n- Antonio Adán se retira a los 39 años: «Gracias, fútbol. Ha sido un privilegio»\n- Barra 3 de 13: los que cruzaron, de José Mari a Isco\n- Las Féminas adelantan su partido ante el Guiniguada Apolinario al sábado a la una",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-19/verdiblanco-al-dia-2026-11-19.mp3",
+  "bytes": 6471305,
+  "tipo": "audio/mpeg",
+  "segundos": 404.4,
+  "fecha_pub": "2026-11-19T06:24:39+01:00"
  }
 ]
