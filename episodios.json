@@ -405,5 +405,16 @@
   "tipo": "audio/mpeg",
   "segundos": 536.9,
   "fecha_pub": "2026-11-20T07:14:42+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-19-especial",
+  "clave": "2026-11-19-especial",
+  "titulo": "Especial · El expediente: Champions 2005 contra Champions 2026: ¿qué Betis es mejor?",
+  "descripcion": "🎙️ Especial · El expediente\nChampions 2005 contra Champions 2026: ¿qué Betis es mejor?\n\n- El especial «El expediente» compara el Betis de Champions de 2005 con el actual, que suma 9 puntos en cuatro partidos tras perder en Dortmund.\n- Aquel Betis, cuarto y campeón de Copa, eliminó al Mónaco y fue tercero de su grupo con 7 puntos, tras Liverpool y Chelsea.\n- Su gran noche fue el 1-0 al Chelsea invicto, con gol de Dani, aunque Ricardo Oliveira se lesionó gravemente la rodilla.\n- El actual ganó a Lille, Oporto y Feyenoord, cayó 2-1 en Dortmund y lleva ocho goles a favor y seis en contra.\n- Veredicto: es el mejor Betis en Champions por ahora; el expediente sigue abierto hasta los partidos de enero ante Arsenal y Bayern.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-19-especial/verdiblanco-al-dia-2026-11-19-especial.mp3",
+  "bytes": 14736447,
+  "tipo": "audio/mpeg",
+  "segundos": 921.0,
+  "fecha_pub": "2026-11-20T16:07:43+01:00"
  }
 ]
