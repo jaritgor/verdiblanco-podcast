@@ -394,5 +394,16 @@
   "tipo": "audio/mpeg",
   "segundos": 404.4,
   "fecha_pub": "2026-11-19T06:24:39+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-20",
+  "clave": "2026-11-20",
+  "titulo": "Verdiblanco al Día · 20/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 20/11/2026\n\n- Ceballos volvió ayer a entrenarse con el grupo, pero no terminó la sesión y sigue siendo duda para el derbi\n- Riquelme también vuelve al grupo, y el once que se apunta es Valles; Bellerín, Bartra, Natan, Fran García; Roca, Fornals, Isco; Antony, Parrott y Abde\n- Bartra, en AS: «No he vivido esto ni en el Clásico ni en un Dortmund-Bayern»\n- La Diputación junta a los presidentes de los dos clubes para pedir convivencia, y para el partido habrá 400 policías nacionales y unos 370 vigilantes privados\n- Barra 2 de 13: la previa. El Betis llega cuarto, con 26 puntos, y hace un año ganó 0-2 en Nervión",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-20/verdiblanco-al-dia-2026-11-20.mp3",
+  "bytes": 8591612,
+  "tipo": "audio/mpeg",
+  "segundos": 536.9,
+  "fecha_pub": "2026-11-20T07:14:42+01:00"
  }
 ]
