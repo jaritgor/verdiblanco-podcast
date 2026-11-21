@@ -438,5 +438,16 @@
   "tipo": "audio/mpeg",
   "segundos": 167.8,
   "fecha_pub": "2026-11-21T20:54:42+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-21-noche",
+  "clave": "2026-11-21-noche",
+  "titulo": "Verdiblanco al Día · 21/11/2026, después del partido",
+  "descripcion": "🎙️ Verdiblanco al Día · 21/11/2026, después del partido\n\n- El derbi acaba uno a uno: Antony adelantó al Betis en el cincuenta, con pase de Isco, y Kike Salas empató en el noventa y uno.\n- Un error de Valles en el descuento decide el empate. Sus compañeros lo arroparon al final: «No cambia nada».\n- Pellegrini: «Estoy amargadísimo, dejamos escapar dos puntos» y «El punto es malo».\n- Polémica: Kike Salas ya tenía amarilla cuando pisó a Isco en el tobillo y siguió en el campo.\n- El Betis sigue cuarto, con veintisiete puntos y ocho por encima del Sevilla. El martes juega en Bratislava (Champions).",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-21-noche/verdiblanco-al-dia-2026-11-21-noche.mp3",
+  "bytes": 8836118,
+  "tipo": "audio/mpeg",
+  "segundos": 552.2,
+  "fecha_pub": "2026-11-21T21:29:45+01:00"
  }
 ]
