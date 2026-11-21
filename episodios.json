@@ -416,5 +416,16 @@
   "tipo": "audio/mpeg",
   "segundos": 921.0,
   "fecha_pub": "2026-11-20T16:07:43+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-21",
+  "clave": "2026-11-21",
+  "titulo": "Verdiblanco al Día · 21/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 21/11/2026\n\n- Ceballos se queda fuera de la convocatoria para el derbi por unas molestias en los isquiotibiales: «Me duele, y mucho».\n- El Cucho y Bernal vuelven a la lista de veintitrés de Pellegrini para jugar en el Sánchez-Pizjuán (18:30).\n- Pellegrini rebaja la euforia: prefiere «no ganar el derbi y jugar la Champions» y avisa de que «nunca hay un favorito».\n- Última de las 13 barras: una sola derrota en los últimos ocho derbis, una serie que el Betis no había tenido nunca.\n- Bartra, central y máximo goleador junto a Riquelme con cinco goles, llega al derbi en su mejor momento.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-21/verdiblanco-al-dia-2026-11-21.mp3",
+  "bytes": 7017577,
+  "tipo": "audio/mpeg",
+  "segundos": 438.5,
+  "fecha_pub": "2026-11-21T06:23:49+01:00"
  }
 ]
