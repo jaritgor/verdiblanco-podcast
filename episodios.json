@@ -449,5 +449,16 @@
   "tipo": "audio/mpeg",
   "segundos": 552.2,
   "fecha_pub": "2026-11-21T21:29:45+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-22",
+  "clave": "2026-11-22",
+  "titulo": "Verdiblanco al Día · 22/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 22/11/2026\n\n- Pellegrini sube el listón tras el uno a uno: para él fueron dos puntos perdidos y empatar en el campo del Sevilla «es un mal resultado».\n- Bartra y Agoumé se responden por la segunda amarilla que no vio Kike Salas, el autor del empate.\n- Antony, el goleador del derbi, es duda para Bratislava. Ceballos, Morante y Losada siguen de baja.\n- El Slovan de Yaya Touré ha perdido sus cuatro partidos de esta fase liga. El Betis ha ganado todos los partidos de Champions en los que marcó primero.\n- Martes, a las nueve de la noche: Slovan Bratislava contra Betis, quinta jornada de la Champions.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-22/verdiblanco-al-dia-2026-11-22.mp3",
+  "bytes": 11576258,
+  "tipo": "audio/mpeg",
+  "segundos": 723.5,
+  "fecha_pub": "2026-11-22T06:24:10+01:00"
  }
 ]
