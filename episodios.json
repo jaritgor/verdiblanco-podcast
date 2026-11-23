@@ -460,5 +460,16 @@
   "tipo": "audio/mpeg",
   "segundos": 721.3,
   "fecha_pub": "2026-11-22T06:24:10+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-23",
+  "clave": "2026-11-23",
+  "titulo": "Verdiblanco al Día · 23/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 23/11/2026\n\n- Antony se recupera del golpe en la cadera que sufrió en el derbi y viaja con la lista de veinticuatro convocados para Bratislava.\n- Ceballos, Morante y Losada siguen de baja. La única novedad de la convocatoria es Manu González, portero del filial.\n- LaLiga ha abierto una investigación por los insultos racistas que recibió Natan a la salida del Sánchez-Pizjuán.\n- El francés Jérôme Brisard pitará el Slovan Bratislava-Betis, mañana a las nueve de la noche.\n- ¿Antony de titular en Bratislava o al banquillo pensando en el Rayo? Este es el debate del día.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-23/verdiblanco-al-dia-2026-11-23.mp3",
+  "bytes": 7880663,
+  "tipo": "audio/mpeg",
+  "segundos": 492.5,
+  "fecha_pub": "2026-11-23T06:23:12+01:00"
  }
 ]
