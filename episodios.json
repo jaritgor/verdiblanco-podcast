@@ -471,5 +471,16 @@
   "tipo": "audio/mpeg",
   "segundos": 492.5,
   "fecha_pub": "2026-11-23T06:23:12+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-24",
+  "clave": "2026-11-24",
+  "titulo": "Verdiblanco al Día · 24/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 24/11/2026\n\n- Lo Celso no pudo entrenarse ayer en Bratislava por unas molestias en la rodilla y, según EFE, apunta a ser baja esta noche.\n- Pellegrini confirma que Antony está en condiciones de jugar y dice que ganar al Slovan sería cumplir el primer objetivo de la temporada.\n- Se esperan muchas rotaciones, sin nada oficial: Bernal, Deossa y Parrott podrían ser titulares.\n- Pellegrini se reencuentra con Yaya Touré, al que entrenó en el City, y lo elogió en la previa.\n- Copa del Rey: el Betis visitará al Extremadura en la segunda eliminatoria.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-24/verdiblanco-al-dia-2026-11-24.mp3",
+  "bytes": 6326691,
+  "tipo": "audio/mpeg",
+  "segundos": 395.4,
+  "fecha_pub": "2026-11-24T06:21:51+01:00"
  }
 ]
