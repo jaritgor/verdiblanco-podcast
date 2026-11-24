@@ -493,5 +493,16 @@
   "tipo": "audio/mpeg",
   "segundos": 182.7,
   "fecha_pub": "2026-11-24T23:18:33+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-24-noche",
+  "clave": "2026-11-24-noche",
+  "titulo": "Verdiblanco al Día · 24/11/2026, después del partido",
+  "descripcion": "🎙️ Verdiblanco al Día · 24/11/2026, después del partido\n\n- El Betis gana cero a dos en Bratislava con dos goles de cabeza del Cucho, en su primera titularidad desde la lesión de octubre.\n- Doce puntos de quince en la Champions. Pellegrini cree que el equipo ya está matemáticamente entre los veinticuatro: «Tenemos que aspirar a seguir entre los ocho primeros».\n- El club avisa de que las bengalas ponen en riesgo los próximos viajes de la afición por Europa. Por las de Dortmund, la UEFA tiene abierto un procedimiento disciplinario.\n- Copa: el Extremadura-Betis se juega el miércoles dos de diciembre, a las nueve de la noche, en Almendralejo.\n- Las Féminas siguen invictas y son uno de los dos únicos equipos sin perder en las tres máximas categorías del fútbol femenino.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-24-noche/verdiblanco-al-dia-2026-11-24-noche.mp3",
+  "bytes": 8332895,
+  "tipo": "audio/mpeg",
+  "segundos": 520.7,
+  "fecha_pub": "2026-11-24T23:57:26+01:00"
  }
 ]
