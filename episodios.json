@@ -504,5 +504,16 @@
   "tipo": "audio/mpeg",
   "segundos": 520.7,
   "fecha_pub": "2026-11-24T23:57:26+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-25",
+  "clave": "2026-11-25",
+  "titulo": "Verdiblanco al Día · 25/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 25/11/2026\n\n- Los dos goles del Cucho en Bratislava, de cabeza, salieron de un plan: Antony se metía por dentro para que Ángel Ortiz subiera por la derecha y centrara.\n- El Cucho, tras su doblete: «El techo de nosotros está más allá».\n- Hay que corregir dos cosas: la puntería contra equipos que se encierran y la marca en el balón parado en contra.\n- Debate: ¿Cucho y Parrott juntos de salida contra el Rayo?\n- Sábado, a las dos de la tarde, Betis-Rayo en La Cartuja, con el Atlético cuatro puntos por encima.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-25/verdiblanco-al-dia-2026-11-25.mp3",
+  "bytes": 9773600,
+  "tipo": "audio/mpeg",
+  "segundos": 610.8,
+  "fecha_pub": "2026-11-25T06:25:14+01:00"
  }
 ]
