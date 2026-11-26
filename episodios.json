@@ -515,5 +515,16 @@
   "tipo": "audio/mpeg",
   "segundos": 610.8,
   "fecha_pub": "2026-11-25T06:25:14+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-26",
+  "clave": "2026-11-26",
+  "titulo": "Verdiblanco al Día · 26/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 26/11/2026\n\n- Las cuentas para entrar en los ocho primeros de la Champions: con 16 puntos el Betis tendría casi tres de cada cuatro opciones, así que le bastan una victoria y un empate en tres partidos.\n- Marc Roca, en AS: «Tenemos potencial para estar en el top 8».\n- Betis-Rayo, el sábado a las dos de la tarde en La Cartuja. Lo Celso, Ceballos, Morante y Losada son baja. El Rayo llega con dos derrotas seguidas sin marcar.\n- LaLiga envía a Competición y a Antiviolencia los cánticos del derbi, que fue el partido con más denuncias de la jornada.\n- Copa del Rey: el martes uno de diciembre, a las nueve de la noche, en el campo del Extremadura.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-26/verdiblanco-al-dia-2026-11-26.mp3",
+  "bytes": 6172464,
+  "tipo": "audio/mpeg",
+  "segundos": 385.7,
+  "fecha_pub": "2026-11-26T06:16:01+01:00"
  }
 ]
