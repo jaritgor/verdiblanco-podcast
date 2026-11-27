@@ -537,5 +537,16 @@
   "tipo": "audio/mpeg",
   "segundos": 481.7,
   "fecha_pub": "2026-11-27T06:17:06+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-26-especial",
+  "clave": "2026-11-26-especial",
+  "titulo": "Especial · La Sevilla bética: Verde y blanco por culpa del Celtic: el viaje de Ramos Asensio",
+  "descripcion": "🎙️ Especial · La Sevilla bética\nVerde y blanco por culpa del Celtic: el viaje de Ramos Asensio\n\n- El verdiblanco del Betis lo trajo de Escocia Manuel Ramos Asensio, de Isla Cristina, que estudió en un colegio marista de Dumfries y seguía al Celtic.\n- Ese colegio estuvo ligado al Hermano Walfrid, fundador del Celtic, que en sus inicios vestía rayas verticales verdes y blancas.\n- El Sevilla Balompié vestía de azul y estrenó el verdiblanco en noviembre de 1910, curiosamente ante el Betis Foot-ball Club.\n- Ramos Asensio, capitán y entrenador, impulsó con «Papá» Jones la fusión de 1914 que dio nombre al Real Betis Balompié y fijó sus colores.\n- En 2021 el Betis lo homenajeó ganando 4-3 al Celtic en el Villamarín, con su hijo Ángel, de 92 años, en el palco.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-26-especial/verdiblanco-al-dia-2026-11-26-especial.mp3",
+  "bytes": 16807017,
+  "tipo": "audio/mpeg",
+  "segundos": 1050.4,
+  "fecha_pub": "2026-11-27T15:32:14+01:00"
  }
 ]
