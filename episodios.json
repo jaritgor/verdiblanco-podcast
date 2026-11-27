@@ -526,5 +526,16 @@
   "tipo": "audio/mpeg",
   "segundos": 385.7,
   "fecha_pub": "2026-11-26T06:16:01+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-27",
+  "clave": "2026-11-27",
+  "titulo": "Verdiblanco al Día · 27/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 27/11/2026\n\n- Beñat San José, entrenador del Rayo, elogia al Betis: «El Betis tiene una plantilla con dos onces titulares». Su equipo busca en La Cartuja la primera victoria a domicilio.\n- Abde es duda por un golpe para el partido de mañana, sábado, a las dos de la tarde. Ceballos, Lo Celso, Morante y Losada siguen de baja.\n- La lista de convocados todavía no está publicada. Según Diario de Sevilla, Pellegrini hará otra serie de cambios respecto al once de Bratislava.\n- Biris Norte apoya a la afición bética por las medidas que se tomaron en el derbi: «No en nuestra casa».\n- Copa: el martes jugamos contra el Extremadura en el Estadio Francisco de la Hera.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-27/verdiblanco-al-dia-2026-11-27.mp3",
+  "bytes": 7708046,
+  "tipo": "audio/mpeg",
+  "segundos": 481.7,
+  "fecha_pub": "2026-11-27T06:17:06+01:00"
  }
 ]
