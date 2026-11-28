@@ -548,5 +548,16 @@
   "tipo": "audio/mpeg",
   "segundos": 1050.4,
   "fecha_pub": "2026-11-27T15:32:14+01:00"
+ },
+ {
+  "guid": "jaritgor/verdiblanco-podcast#2026-11-28",
+  "clave": "2026-11-28",
+  "titulo": "Verdiblanco al Día · 28/11/2026",
+  "descripcion": "🎙️ Verdiblanco al Día · 28/11/2026\n\n- Abde, que se llevó un golpe en el pie en Bratislava, entra en la lista para el Rayo, y Morante también vuelve. Ceballos, Lo Celso y Losada se quedan fuera.\n- Se espera que Pellegrini cambie casi toda la defensa: según las previas, vuelven Bellerín, Bartra, Natan, Marc Roca y Fornals.\n- Pellegrini, sobre el Villamarín: «Lo ideal sería volver lo antes posible a nuestro estadio».\n- El Rayo llega decimosexto y todavía no ha ganado fuera de casa en Liga. Además, no gana en Sevilla desde hace catorce años.\n- Betis-Rayo, hoy a las dos de la tarde en La Cartuja, con Bestard de árbitro. El martes jugamos la Copa en el campo del Extremadura.",
+  "url": "https://github.com/jaritgor/verdiblanco-podcast/releases/download/ep-2026-11-28/verdiblanco-al-dia-2026-11-28.mp3",
+  "bytes": 6856245,
+  "tipo": "audio/mpeg",
+  "segundos": 428.4,
+  "fecha_pub": "2026-11-28T06:19:36+01:00"
  }
 ]
